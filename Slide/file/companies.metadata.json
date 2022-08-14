@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"unique":true,"key":{"owner._id":{"$numberInt":"1"}},"name":"owner._id_1","background":true}],"uuid":"6602914a450a448ea46f1f7cfd46655e","collectionName":"companies","type":"collection"}
